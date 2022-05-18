@@ -1,4 +1,4 @@
-# Quest HTML/CSS/JavaScript Intermediário: Desafio 2
+# Quest HTML/CSS/JavaScript Intermediário: Desafio 3
 
 ## Validação de formulário usando JavaScript
 
