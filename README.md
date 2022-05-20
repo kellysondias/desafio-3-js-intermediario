@@ -1,12 +1,14 @@
-# Quest HTML/CSS/JavaScript Intermediário: Desafio 2
+# Quest HTML/CSS/JavaScript Intermediário: Desafio 3
 
 ## Validação de formulário usando JavaScript
 
-[<img src='src/img/desktop.gif' alt='xabilobers'>](https://kellysondias.github.io/desafio-3-js-intermediario/)
+[<img src='src/img/desktop.gif' alt='xabilobers'>](https://kellysondias.github.io/desafio-3-js-intermediario/
+)
 
 ## Versão mobile
 
-[<img src="src/img/mobile.gif" alt="Versão mobile">](https://kellysondias.github.io/desafio-2-js-intermediario/)
+[<img src="src/img/mobile.gif" alt="Versão mobile">](https://kellysondias.github.io/desafio-3-js-intermediario/
+)
 
 ## Tecnologias utilizadas:
 - HTML
